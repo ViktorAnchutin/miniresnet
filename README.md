@@ -1,7 +1,7 @@
 # miniresnet | Building mini resnet from scratch for rice disease classification
 ![](https://github.com/ViktorAnchutin/miniresnet/blob/main/rdc_images/paddy.png?raw=true)
 
-Final project for the **WQD7006 | Machine Learning for data science** course at University of Malaya
+Final project for the **WQD7006 | Machine Learning for data science** course at University Malaya
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ViktorAnchutin/miniresnet/blob/main/mini_resnet_from_scratch_with_pytorch.ipynb)
 
