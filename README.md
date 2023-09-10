@@ -10,8 +10,8 @@ Team members:
 - [Viktor Anchutin](https://www.linkedin.com/in/viktor-anchutin/)
 - [Huang Han Wang](https://www.linkedin.com/in/huang-han-harry-wang-517386a8/)
 - [Xiaokai Ma](https://www.linkedin.com/in/xiaokai-ma-36419917a/)
+- [Zhenhao Wang](https://www.linkedin.com/in/zhenhao-wang-aabab1258/)
 - Yang Wang
-- Zhenhao Wang
 
 Instructor: [Riyaz Ahamed A.H ](https://www.linkedin.com/in/riyazahd/)
 
